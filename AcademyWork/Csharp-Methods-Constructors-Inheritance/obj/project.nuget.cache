@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hsHR/xab02u2ueLasBvh7lY0wrmdtiuE7lMs2/pzV1EREK7BIPcDzhDdnQo+G6Y6fuko5do4e95NmN6zZ7+MXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\C#\\Csharp-Methods-Constructors-Inheritance\\AcademyWork\\Csharp-Methods-Constructors-Inheritance\\Csharp-Methods-Constructors-Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
